@@ -75,3 +75,7 @@
 
 
 # Справка
+
+**--help**
+* git log --help
+* git commit --help
